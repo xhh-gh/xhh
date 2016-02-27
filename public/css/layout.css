@@ -1,0 +1,12 @@
+#body{
+    background:url('../images/bg.jpg') repeat scroll 0 0;
+}
+.nav-left{
+    float: left !important;
+}
+.nav-right{
+    float: right !important;
+}
+.search-input{
+    margin-top:10px;
+}

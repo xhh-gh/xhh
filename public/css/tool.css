@@ -1,0 +1,15 @@
+/*text-align*/
+.tc{text-align: center;}
+.tl{text-align: left;}
+.tr{text-align: right;}
+/*margin-top*/
+.mt5{ margin-top:5px;}
+.mt10{ margin-top:10px;}
+.mt15{ margin-top:15px;}
+.mt20{ margin-top:20px;}
+.mt25{ margin-top:25px;}
+.mt30{ margin-top:30px;}
+.mt-15{ margin-top:-15px;}
+/*块状是否显示*/
+.db{display:block;}
+.dn{display:none;}
