@@ -1,6 +1,18 @@
 #body{
     background:url('../images/bg.jpg') repeat scroll 0 0;
 }
+a{
+    color:#f4645f;
+}
+#NAV>li>a{
+    color:#000000;
+}
+#NAV>li>a:hover{
+    color:#f4645f;
+}
+a:hover{
+    color:#f4645f;
+}
 .nav-left{
     float: left !important;
 }
